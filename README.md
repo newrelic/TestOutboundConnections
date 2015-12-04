@@ -5,7 +5,7 @@ Simply enter yoru proxy parameters and you should be all set
 
 Are you using New Relic and want to test the agent's connectivity?   Use this: 
 ```
-JAVA_OPTS="-Dnewrelic.config.proxy_host=proxy.ebiz.verizon.com -Dnewrelic.config.proxy_port=80"
+JAVA_OPTS="-Dnewrelic.config.proxy_host=proxy.yourcompany.com -Dnewrelic.config.proxy_port=80"
 ```
 
 Just running Java?   Use this:
